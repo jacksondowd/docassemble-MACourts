@@ -63,6 +63,7 @@
   {
     "fax": "",
     "url": "https://www.mass.gov/locations/barnstable-district-court",
+    "hours": "monday - friday 8:30am - 5:30pm",
     "court_code": "25",
     "tyler_lower_court_code": "1766",
     "tyler_prod_lower_court_code": "6995",
@@ -77,7 +78,7 @@
     "address": {
       "city": "Barnstable",
       "zip": "02630",
-      "orig_address": "3195 Main St., P.O. Box 398, Barnstable, MA 02630",
+      "orig_address": "3195 Main St., Barnstable, MA 02630",
       "county": "Barnstable County",
       "state": "MA",
       "address": "3195 Main St., P.O. Box 398"
@@ -378,6 +379,8 @@
   },
   {
     "fax": "(508) 885-7623",
+    "URL": "https://www.mass.gov/locations/east-brookfield-district-court",
+    "hours": "monday - friday 8:30am - 4:30pm",
     "court_code": "69",
     "tyler_lower_court_code": "1776",
     "tyler_prod_lower_court_code": "7005",
@@ -413,6 +416,8 @@
   },
   {
     "fax": "(413) 323-6803",
+    "URL": "https://www.mass.gov/locations/eastern-hampshire-district-court",
+    "hours": "monday - friday 8:30am - 4:30pm",
     "court_code": "98",
     "tyler_lower_court_code": "1777",
     "tyler_prod_lower_court_code": "7006",
@@ -472,6 +477,8 @@
   },
   {
     "fax": "",
+    "URL": "https://www.mass.gov/locations/fall-river-district-court",
+    "hours": "monday - friday 8:30am - 5:30pm",
     "court_code": "32",
     "tyler_lower_court_code": "1779",
     "tyler_prod_lower_court_code": "7008",
@@ -503,6 +510,8 @@
   },
   {
     "fax": "",
+    "URL": "https://www.mass.gov/locations/falmouth-district-court",
+    "hours": "monday - friday 8:30am - 4:30pm",
     "court_code": "89",
     "tyler_lower_court_code": "1780",
     "tyler_prod_lower_court_code": "7009",
@@ -568,6 +577,8 @@
   },
   {
     "fax": "",
+    "URL": "https://www.mass.gov/locations/framingham-district-court",
+    "hours": "monday - friday 8:30am - 4:30pm",
     "court_code": "49",
     "tyler_lower_court_code": "1782",
     "tyler_prod_lower_court_code": "7011",
@@ -644,6 +655,8 @@
   },
   {
     "fax": "(978) 283-8784",
+    "URL": "https://www.mass.gov/locations/gloucester-district-court",
+    "hours": "monday - friday 8:30am - 4:30pm",
     "court_code": "39",
     "tyler_lower_court_code": "1784",
     "tyler_prod_lower_court_code": "7013",
@@ -656,12 +669,12 @@
       "longitude": -70.660932
     },
     "address": {
-      "city": "Gloucester",
-      "zip": "01930",
-      "orig_address": "197 Main St., Gloucester, MA 01930",
+      "city": "Peabody",
+      "zip": "01960",
+      "orig_address": "1 Lowell St., Peabody, MA 01960",
       "county": "Essex County",
       "state": "MA",
-      "address": "197 Main St."
+      "address": "1 Lowell St."
     },
     "ada_coordinators": [
       {
@@ -954,6 +967,8 @@
   },
   {
     "fax": "(781) 322-0169",
+    "URL": "https://www.mass.gov/locations/malden-district-court",
+    "hours": "monday - friday 8:30am - 4:30pm",
     "court_code": "50",
     "tyler_lower_court_code": "1794",
     "tyler_prod_lower_court_code": "7023",
@@ -966,12 +981,12 @@
       "longitude": -71.073865
     },
     "address": {
-      "city": "Malden",
-      "zip": "02148",
-      "orig_address": "89 Summer St., Malden, MA 02148",
+      "city": "Medford",
+      "zip": "02155",
+      "orig_address": "4040 Mystic Valley Parkway, Medford, MA 02155",
       "county": "Middlesex County",
       "state": "MA",
-      "address": "89 Summer St."
+      "address": "4040 Mystic Valley Parkway"
     },
     "ada_coordinators": [
       {
@@ -1292,6 +1307,8 @@
   },
   {
     "fax": "(413) 283-6775",
+    "URL": "https://www.mass.gov/locations/palmer-district-court",
+    "hours": "Monday - Friday 8:30am - 4:30pm",
     "court_code": "43",
     "tyler_lower_court_code": "1806",
     "tyler_prod_lower_court_code": "7035",
@@ -1353,6 +1370,8 @@
   },
   {
     "fax": "(413) 499-7327",
+    "URL": "https://www.mass.gov/locations/pittsfield-district-court",
+    "hours": "monday - friday 8:30am - 5:30pm",
     "court_code": "27",
     "tyler_lower_court_code": "1808",
     "tyler_prod_lower_court_code": "7037",
@@ -1538,6 +1557,8 @@
   },
   {
     "fax": "",
+    "URL": "https://www.mass.gov/locations/springfield-district-court",
+    "hours": "Monday - Friday 8:30am - 4:30pm",
     "court_code": "23",
     "tyler_lower_court_code": "1814",
     "tyler_prod_lower_court_code": "7043",
